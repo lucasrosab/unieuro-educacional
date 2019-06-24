@@ -1,0 +1,53 @@
+#principal {
+    background-color: white
+}
+
+#sub {
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px
+}
+
+nav img {
+    width: 200px;
+}
+
+nav a {
+    font-size: 15pt;
+}
+
+#redesSociais img {
+    width: 15px;
+    height: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#rodape {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 320px;
+    background-color: white;
+}
+
+.informacoes {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 16em
+}
+
+.informacoes a {
+    display: block;
+    color: black;
+}
+
+#logoRodape {
+    width: 100px;
+    float: right;
+}
+
+#msgRodape {
+    font-size: 20pt;
+}
