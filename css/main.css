@@ -1,0 +1,36 @@
+body{
+    background-color: #FFFFFF;
+}
+
+.imagem{
+    width: 200px;
+    height: 200px;
+}
+
+.imagem__pequena{
+    width: 70px;
+    height: auto;
+}
+
+.imagem__media{
+    width: 150px;
+    height: 150px;
+}
+
+.imagem__grande{
+    width: 200px;
+    height: 200px;
+}
+
+.marca{
+    margin: 0px;
+    margin-left: 20px;
+}
+
+.titulo-marca{
+    font-size: 20px;
+}
+
+.slogan{
+    font-size: 15px;
+}
